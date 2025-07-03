@@ -1,6 +1,7 @@
 # conflict-workshop
 
 
+<<<<<<< HEAD
 # am-test
 
 ATT
@@ -21,3 +22,6 @@ mis67 nasid yotarat
 
 
 Hello World By Guy Coffee XD
+=======
+Jack ครับ
+>>>>>>> f8c4191 (Jack edit)
