@@ -23,5 +23,5 @@ mis67 nasid yotarat
 
 Hello World By Guy Coffee XD
 =======
-Jack ครับ
+Jack นะครับ
 >>>>>>> f8c4191 (Jack edit)
